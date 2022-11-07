@@ -1,8 +1,8 @@
 ---
-title: "Opern-Spielpläne in NRW: tot und männlich"
-description: WDR 3 Datenanalyse der Opern-Spielzeit 2018/2019
-author: Niklas Rudolph, Patricia Ennenbach
-pub_date: "2019-07-15"
+title: "Arm trotz Arbeit – Frauen in der Krise"
+description: Dies ist die Beschreibung
+author: Lena Eggert
+pub_date: "2022-11-09"
 heroImage: "richard-wagner-und-freunde.jpg"
 heroAlt: "Richard Wagner und seine Freunde"
 heroCredit: "Richard Wagner und seine Freunde"
@@ -18,7 +18,6 @@ import DataWrapper from '../components/datawrapper/datawrapper.jsx'
 import Quote from '../components/quote/quote.jsx'
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
-import SemioticBarChart from '../components/semiotic_barChart/semiotic_barChart.jsx'
 import WdrPlayer from '../components/video/video.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
@@ -26,81 +25,81 @@ import TabbedView from '../components/data-tabs/TabbedView.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 
-# Opern-Spielpläne in NRW: tot und männlich
 
-## Wir haben die Opern-Spielpläne in NRW unter die Lupe genommen. Das Ergebnis: NRW ist ein Opern-Paradies. Aber lebende Komponisten haben kaum eine Chance, auf die Spielpläne zu kommen. Und Komponistinnen gar keine.
+# Arm trotz Arbeit – Frauen in der Krise
 
-Waren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrscheinlich Papageno, die Knusperhexe oder Leporello auf der Bühne erlebt. Denn diese Opern und Operetten standen am häufigsten auf dem Spielplan:
+**Am 1. Oktober 2022 wurde der gesetzliche Mindestlohn in Deutschland auf 12 Euro pro Stunde angehoben. Ein Betrag, der trotz Erhöhung viele Menschen am Existenzminimum leben lässt. Frauen sind in Deutschland besonders stark von Armut betroffen. Nach Angaben des Deutschen Paritätischen Wohlfahrtsverbands galten 2021 17,5 Prozent der Frauen als armutsgefährdet. Bei Männern lag die Armutsgefährungsquote bei 15,7 Prozent.**
 
-## Quiz Beispiel
+<Quote author="Susanne Holtkotte">Finanziell hat sich gar nichts geändert</Quote>
 
-<Quiz>
-<QuizImage src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Foobar</Answer>
-<Answer correct>42</Answer>
-<Answer>Richtige Antwort</Answer>
-<Answer>Hier klicken!</Answer>
-<Result>
-Natürlich ist **42** die richtige Antwort. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</Result>
-</Quiz>
+## Eine von vielen
 
-<Quiz>
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Hier klicken!</Answer>
-<Answer>Foobar</Answer>
-<Answer>Richtige Antwort</Answer>
-<Answer correct>42</Answer>
-<Result>
-Natürlich ist **42** die richtige Antwort.
-</Result>
-</Quiz>
+Der WDR begleitete in der Dokureihe „Menschen hautnah“ bereits 2018 vier berufstätige Frauen zwischen Arbeit, Alltag und Existenzsorgen. Ihre Situation damals: prekär. Seitdem ist viel passiert: Corona-Pandemie, Krieg gegen die Ukraine, Inflation, steigende Preise für Lebensmittel und Energie. Dieses Jahr stand ein zweiter Besuch bei drei der vier Frauen an.
 
-<Quiz>
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Richtige Antwort</Answer>
-<Answer>Hier klicken!</Answer>
-<Answer correct>42</Answer>
-<Answer>Foobar</Answer>
-<Result>
-Natürlich ist **42** die richtige Antwort.
-</Result>
-</Quiz>
+Nach der Veröffentlichung der Dokumentation stand eine der Protagonist:innen besonders im medialen Fokus: Susanne Holtkotte, Reinigungskraft in einem Krankenhaus aus Bochum. Sie diskutierte 2018 mit Politiker:innen und Frank Plasberg in der Sendung „hart aber fair“, tauschte 2019 mit Arbeitsminister Hubertus Heil für einen Tag die Arbeitsplätze und kämpfte für Lohnerhöhung und eine Grundrente. Letztere gibt es nun seit 2021, der Mindestlohn wurde dieses Jahr erhöht. Eigentlich sind es Verbesserungen, über die sich Susanne freuen könnte. Doch durch die Inflation lebt Susanne trotz Vollzeitjob am Existenzminimum.
 
-<QuizScore
-images={{
-    0: "berthold-schneider-credit-jens-grossmann.jpg",
-    2: "richard-wagner-und-freunde_twitter.jpg",
-}}
-texts={{
-    0: "Schade, das war wohl nix.",
-    2: "Gute Arbeit",
-}}
-/>
+„Finanziell hat sich gar nichts geändert, trotz der Lohnerhöhung, wo wir alle drauf gehofft haben“, sagt sie im zweiten Teil der Dokureihe.
 
-## Tabs Beispiel:
+Ihre persönliche Geschichte ist nur eine von vielen von berufstätigen Frauen in Deutschland und nur ein Beispiel eines großen Systemproblems.
 
-<TabbedView tabs={[
-    {
-        url: "//datawrapper.dwcdn.net/vX99N/57/",
-        title: "Infektionen",
-        frameTitle: "Bestätigte Infektionen mit Corona: Karte",
-        ariaLabel: "Karte",
-    },
-    {
-        url: "//datawrapper.dwcdn.net/x7wUg/73/",
-        title: "Je 100.000",
-        frameTitle: "Bestätigte Infektionen mit Corona je 100.000 Einwohner: Karte",
-        ariaLabel: "Karte",
-    },
-    {
-        url: "//datawrapper.dwcdn.net/j8Y35/2/",
-        title: "Tabelle",
-        frameTitle: "Infektionen mit Corona: Aktuelle Zahlen aus NRW",
-        ariaLabel: "Tabelle",
-    },
-]} />
+
+## Geringfügige Beschäftigung
+
+Ähnlich wie Susanne übten im Jahr 2021 rund 788.300 Frauen Reinigungsberufe aus. Sie alle haben den größten Anteil innerhalb der geringfügig beschäftigten Frauen. Eine geringfügig entlohnte Beschäftigung liegt dann vor, wenn der Lohn im Monat 520 Euro nicht übersteigt. Andere Frauen in dem Bereich arbeiten in Bürojobs (682.300), in Verkaufsberufen (562.100) oder Tourismus/Gastroberufen (422.700). Nach Angaben der Bundesagentur für Arbeit gab es zum 30. Juni 2021 rund 4,3 Millionen geringfügig beschäftigte Frauen.
+
+Im Vergleich dazu arbeiteten die meisten der 3,1 Millionen geringfügig beschäftigten Männer im Bereich Verkehr/Logistik (388.800; Fahrzeugführung ausgenommen). Die zweitgrößte Gruppe machen Führer von Fahrzeug- und Transportgeräten (313.000) aus, gefolgt von Reinigungsberufen (275.200).
+
+<YDIBar name="entlohnung"/>
+
+Laut Wirtschaft- und Sozialinstitut gilt jed:r in Deutschland als arm, der:die weniger als 60 Prozent des bundesdurchschnittlichen Einkommens verdient. Für einen Einpersonenhaushalt wie Susanne ihn führt lag die Armutsgrenze 2020 bei 1126 Euro.
+
+<figure>
+Clip Ulrike 03:46 - 04:11:06
+
+(„Eben war ich ja in der Schule und irgendwie wollte eine Lehrerin wissen, wie der Film hieß, in dem ich schon mal mitgemacht habe. Und das heißt ja Arm trotz Arbeit. Und da habe ich ihr das gesagt, und die guckte mich ganz entsetzt an, habe ich gesagt, ja, ich bin offiziell bin ich arm, so laut dem Einkommen und so und das, das wissen die ja eigentlich alle gar nicht.“)
+<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<figcaption>Auch Ulrike, freiberufliche Sängerin, gilt offiziell als arm. Wissen tun das die wenigsten.</figcaption>
+</figure>
+
+## Gender Pay Gap
+
+Frauen sind nicht nur vermehrt eine geringfügig beschäftigt, sondern verdienen auch insgesamt weniger Geld als Männer. So erhielten Frauen 2021 laut Statistischem Bundesamt durchschnittlich 19,12 Euro pro Stunde. Das sind 4,08 Euro weniger als bei Männer.
+
+Susanne muss mit ihrem geringen Einkommen nur sich selbst über die Runden bringen. Frauen mit Kindern sind häufig durch zusätzliche Care-Arbeit belastet und können teilweise nur in Teilzeit arbeiten. In Umfragen von Eurostat nannten 30,5 Prozent der befragten Frauen in Deutschland die Betreuung von Kindern und erwerbsunfähigen Erwachsenen als Hauptgrund für eine Teilzeitbeschäftigung. Bei Männern waren es lediglich 7,1 Prozent. 28,3 Prozent der Männer gaben an, aufgrund von Ausbildung und beruflicher Weiterbildung in Teilzeit zu arbeiten.
+
+<YDIBar name="vollzeit"/>
+
+<YDIBar name="teilzeit"/>
+
+Besonders alleinerziehende Frauen erfahren eine Doppelbelastung durch Arbeit und Kinderbetreuung. Auch sie können teilweise nur Teilzeitbeschäftigungen nachgehen, wenn sie keine Unterstützung von außen bekommen. Laut Statistischem Bundesamt galten im Jahr 2021 circa 2,15 Millionen Mütter als alleinerziehend. Die Zahl der alleinerziehenden Väter ist mit 462.00 deutlich geringer.
+
+<figure>
+Clip Janina 15:46 – 16:10
+
+(„Am Montag bin ich nicht da. Wieso denn? Für die Arbeit? Ich muss nach Engelskirchen. Dann seid ihr bei Oma und Opa. Müsste klappen oder? Ja, ihr kriegt das ja hin, oder? Ja, denke ich auch. Like wir kriegen das hin. Was? Das Mama weg ist.“)
+<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<figcaption>Janina ist alleinerziehende Mutter von zwei Kindern. Ihr Arbeit schafft sie oft nur mit Unterstützung von den Großeltern.</figcaption>
+</figure>
+
+Aufgrund von zusätzlicher Care-Arbeit sank während der Corona-Pandemie die durchschnittliche Erwerbsarbeitszeit von Frauen. Nach Angaben der Hans-Böckler-Stiftung betrug die wöchentliche Arbeitszeit von Eltern mit betreuungsbedürftigen Kindern bei Frauen 31 Stunden und bei Männern 41 Stunden. Im April 2020 sanken die Arbeitszeit auf 24 Stunden bei Frauen und 36 bei Männern.
+
+All diese Faktoren spielen in den Gender Pay Gap hinein, der die Einkommensunterschiede zwischen den zwei Geschlechtern verdeutlicht. Entwicklungen zeigen, dass Frauen im Jahr 2021 18 Prozent weniger Lohn pro Stunde verdient haben als Männern, unverändert zum Vorjahr. Die Verdienstabstand zwischen den beiden Geschlechtern hat sich über die letzten 10 Jahre hinweg jedoch verringert. 2012 lag der Gender Pay Gap noch bei 23 Prozent.
+
+## Problem: Altersarmut
+
+Die erheblichen Einkommensunterschiede zwischen Frauen und Männern hören mit dem Eintritt in die Rente nicht aus. Im Gegenteil: Der Gap vergrößert sich. Nach Angaben der Deutschen Rentenversicherung lag 2021 die durchschnittliche Rente von Frauen bei etwa 832 Euro im Monat. Männer hingegen erhielten durchschnittlich 1304 Euro. Demnach lag der Verdienstabstand bei etwa 36 Prozent.
+
+Auch Zahlen des Statistischen Bundesamtes zeigen, dass bei 68 Prozent der Renter:innen das monatliche Nettoeinkommen unter 1500 Euro liegt, bei Männern sich es lediglich 43,9 Prozent. All diese Angaben zeigen, dass Frauen auch im Alter stärker von Armut gefährdet sind als Männer.
+
+<YDILine name="altersarmut"/>
+
+<figure>
+Clip Susanne 06:24 – 06:36
+
+(„Susanne: Wir brauchen ein Konzept wo die Leute nach wie vor Lust haben arbeiten zu gehen und ihr Geld zu verdienen und dann im Anschluß ne vernünftige Rente zu kriegen. Wenn dann diese Renten, die da entstehen, alle Netto wären, das wär ja schon ne Bombe.“)
+<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<figcaption>2018 war Reinigungskraft Susanne zur Gast bei „hart aber fair“.</figcaption>
+</figure>
 
 <Link title="Dies ist ein Beispiel für einen einzelnen Link" href="https://example.com/" />
 
@@ -114,153 +113,5 @@ texts={{
         href: "https://example.com/",
     },
 ]} />
-
-## Beispiel WSS Line Chart:
-
-<YDILine name="test_line"/>
-
-## Beispiel WSS Bar Chart:
-
-<YDIBar name="test"/>
-
-## Beispiel 2 WSS Bar Chart:
-
-<YDIBar name="test01"/>
-
-## Beispiel 3 WSS Bar Chart:
-
-<YDIBar name="test02"/>
-
-## Beispiel regulärer Bar Chart:
-
-<SemioticBarChart/>
-
-## Beispiel Video-Player:
-
-<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/hZIGM2L.jpg" />
-
-mehr toller text
-
-### Zauberflöte vor Hänsel und Gretel
-
-<figure role="group">
-    <figcaption>Wurde das Stück im Haus auch 'für Kinder' gespielt, haben wir es hier mit zusammengefasst.</figcaption>
-    <DataWrapper
-        alt="76 mal wurde die Zauberflöte 2018/2019 in NRW aufgeführt, gefolgt von Hänsel und Gretel mit 34 Aufführungen."
-        title="Zauberflöte vor Hänsel und Gretel"
-        src="//datawrapper.dwcdn.net/azwpu/7/"
-    />
-</figure>
-
-In der vergangenen Spielzeit stemmten die 13 kommunalen Bühnen über hundert Inszenierungen – mit insgesamt mehr als tausend Aufführungen. Drei Opern pro Tag. NRW ist ein großartiges Bundesland für Oper.
-
-## Viel Angebot, aber wenig Vielfalt
-
-Doch so vielfältig, wie es sich auf den ersten Blick darstellt, ist das Angebot keinesfalls. Denn meistens begegnet das Publikum alten Bekannten:
-
-### Verdi, Mozart, Wagner sind Spitzenreiter
-
-<figure role="group">
-    <figcaption> Zu sehen ist das Geburtsjahr im Verhältnis zur Zahl der Aufführungen. Gelbe Quadrate stehen für lebende KomponistInnen, blaue Punkte für verstorbene. Klicken Sie darauf, um Name, Geburtsjahr und Zahl der Aufführungen zu sehen.</figcaption>
-    <DataWrapper
-        alt="Während lebende KomponistInnen oft nur 1-8 mal aufgeführt werden, werden Komponisten, die über 150 Jahre alt sind besonders häufig aufgeführt. Spitzenreiter sind Guiseppe Verdi und Wolfgang Amadeus Mozart."
-        title="Ältere KomponistInnen werden häufiger aufgeführt"
-        src="//datawrapper.dwcdn.net/48hJE/12/"
-    />
-
-</figure>
-
-Bei Leonard Bernstein und Jacques Offenbach sieht man, dass die großen Jubiläumsjahre sehr erfolgreich darin waren, diese Komponisten wieder auf die Spielpläne zu setzen. Trotzdem sind die großen Namen meistens Verdi, Mozart, Wagner und Puccini - ihre Opern machen etwa ein Drittel der Aufführungen aus. Giuseppe Verdi führt diese Liste mit Abstand an – seine Opern sind gleich 13 mal inszeniert und insgesamt 143 mal aufgeführt worden.
-
-## Im Schnitt sind die Komponisten 180 Jahre alt
-
-Die beliebten Melodien von Mozart und Verdi lassen anscheinend kaum Konkurrenz zu. Denn Stücke von lebenden Komponisten und Komponistinnen finden sich selten auf den Spielplänen. Nur jeder dritte gespielte Komponist lebt noch, im Schnitt sind die Komponisten 180 Jahre alt. Ist die Opernwelt im 19. Jahrhundert stehen geblieben?
-
-### Jeder dritte Komponist lebt - wird aber kaum aufgeführt
-
-<figure role="group">
-    <figcaption> Bei Klick auf 'KomponistInnen' ist zu sehen, wie das Verhältnis von verstorbenen zu lebenden KomponistInnen ist.</ figcaption>
-    <DataWrapper
-        alt="Fast jede dritte KomponistIn lebt, aber nur 9 % der Aufführung stammen von ihnen."
-        title="Nur 9 % der Aufführungen stammen von lebenden KomponistInnen."
-        src="//datawrapper.dwcdn.net/6D2bM/4/"
-    />
-
-</figure>
-
-Für den Komponisten Moritz Eggert ist das ein Armutzeugnis. Er hatte den deutschen Opernhäusern schon im vergangenen Jahr mangelnde Innovationskraft vorgeworfen:
-
-<Quote author={
-<a href="https://blogs.nmz.de/badblog/2018/04/10/die-ernuechternde-opernstatistik-der-spielzeit-2017-2018/" target="_blank" rel="noopener noreferrer">Moritz Eggert</a>
-}>Überlebenschance der Gattung Oper, wenn sich nicht grundlegend etwas ändert: 0%</Quote>
-
-Philipp Jüttner vom Musiktheater im Revier in Gelsenkirchen wehrt sich gegen den Vorwurf: "Auftragswerke sind aufwändig und teuer". Jedes Jahr vergäben die Opern Aufträge an lebende Komponisten. Jüttner: "Wir schauen, wo wir Lücken im Repertoire schließen können." Einen Bedarf sieht er vor allem bei Werken für ein junges Publikum - also bei Kinderopern. So tourte das Musiktheater im Revier mit "Don Quixote" von Komponistin Katharina Schmauder (Jahrgang 1994) durch die Grundschulen im Umland. Für die große Bühne war das Stück allerdings nicht gedacht.
-
-<Quote author="Philipp Jüttner, Musiktheater im Revier Gelsenkirchen">Zeitgenössische Werke müssen sich beweisen.</Quote>
-
-Neue Stoffe hätten es häufig schwer, sich gegen populäre Melodien durchzusetzen: "Ein guter Test dafür, was künstlerisch standhält." Deswegen wundere es Philipp Jüttner nicht, dass viele neu komponierte Opern nicht mehr Aufführungen als die Premiere erleben: "Zeitgenössische Werke müssen sich gegen bekannte Opern beweisen."
-
-### Dortmund, Wuppertal und Düsseldorf/Duisburg sind die lebendigsten Häuser
-
-<figure role="group">
-    <figcaption> Gezeigt wird der Anteil lebender bzw. verstorbener KomponistInnen in der Spielzeit 2018/2019.</ figcaption>
-    <DataWrapper
-        alt="Während in Dortmund, Wuppertal und Düsseldorf/Duisburg mehr als 20 % lebende KomponistInnen gespielt wurden, waren es in Aachen, Hagen, Herford und Minden ausschließlich verstorbene Komponisten."
-        title="Dortmund, Wuppertal und Düsseldorf/Duisburg sind die lebendigsten Häuser"
-        src="//datawrapper.dwcdn.net/Nidhc/4/"
-    />
-
-</figure>
-
-### 13 lebende Komponisten auf der Bühne - darunter nur eine einzige Frau
-
-Schaut man sich die Stücke an, die die Häuser auf ihren eigenen Bühnen aufführen, so sind die Komponisten allesamt Männer. Einzige Ausnahme ist die spanische Komponistin Nuria Núñez Hierro (Jahrgang 1980).
-
-<figure role="group">
-    <figcaption>Hierros Kinderoper “Kleines Stück Himmel” wurde in Wuppertal acht mal aufgeführt.</figcaption>
-    <DataWrapper
-        alt="In der Spielzeit 2018/2019 war unter 66 KomponistInnen nur eine Frau."
-        title="Nuria Nunez Hierro ist die einzige Frau"
-        src="//datawrapper.dwcdn.net/T56o1/2/"
-    />
-
-</figure>
-Können Frauen einfach keine Opern schreiben? Nein, daran liegt es nicht.
-
-"Es gibt gewachsene Strukturen, die von Männern dominiert sind", [erklärt der Intendant der Oper Wuppertal, Berthold Schneider, den hohen Männeranteil.](https://www1.wdr.de/mediathek/audio/wdr3/wdr3-kultur-am-mittag/audio-was-wird-an-den-opern-in-nrw-gezeigt-100.html)
-
-<Quote author="Berthold Schneider, Intendant der Oper Wuppertal">Da kann man über eine Frauenquote nachdenken.</Quote>
-
-Gerade weil die Anzahl der Kompositionsaufträge, die die Häuser vergeben, recht überschaubar ist, müsse man sicherstellen, dass Frauen angemessen berücksichtigt werden. "Das könnte man mal festlegen", sagt Schneider.
-
-### Europa im Zentrum
-
-Auch die Herkunft der gespielten Komponisten beschränkt sich vor allem auf Deutschland und Mitteleuropa.
-
-<figure role="group">
-    <figcaption>Die meisten KomponistInnen sind in Europa geboren, nur wenige kommen aus dem EU-Ausland.</figcaption>
-    <DataWrapper
-        alt="Nur wenige KomponistInnen stammen nicht aus Europa."
-        title="Europa im Zentrum"
-        src="//datawrapper.dwcdn.net/OttGi/1/"
-    />
-    <DataWrapper
-        alt="Einzelne KomponistInnen kommen aus der ganzen Welt."
-        title="Nuria Nunez Hierro ist die einzige Frau, deren Oper auf den Bühnen in NRW gespielt wird"
-        src="//datawrapper.dwcdn.net/qWU0T/5/"
-    />
-
-</figure>
-
-Die Opern begründen ihre konservativen Spielpläne mit dem allgemeinen Druck, die Auslastungszahlen hoch zu halten. Für Intendant Berthold Schneider eine gute Situation: "Ich glaube wir sind da in einer ganz tollen Situation im Moment", sagt er, "weil auch der innere Leidensdruck ziemlich groß ist und das ist immer eine gute Voraussetzung."
-
-<figure role="group">
-<img src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
-<figcaption style="text-align: end;">Berthold Schneider</figcaption>
-</figure>
-
-Auf der einen Seite wolle Schneider mit Oper kulturelles Erbe abbilden, auf der anderen Seite Innovationsdruck machen: "Wir brauchen unbedingt viel, viel mehr Dynamik."
-
-<Quote author="Berthold Schneider, Intendant Oper Wuppertal">Die Oper ist stark genug, dass sie sich immer wieder verändern wird.</Quote>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />

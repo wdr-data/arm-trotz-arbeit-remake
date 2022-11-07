@@ -1,0 +1,28 @@
+{
+  "key": "entlohnung",
+  "heading": "Was schätzen Sie...?",
+  "subheading": "Wie groß ist der Anteil geringfügig entlohnter Beschäftigung bei Frauen?",
+  "result": "**Auflösung hier**",
+  "accessibility": "Während 39 Prozent der Männer geringfügig entlohnt beschäftigt, sind es bei Frauen 61 Prozent.",
+  "source": {
+    "url": "https://de.statista.com/statistik/daten/studie/198933/umfrage/erwerbstaetigkeit-in-deutschland-nach-geschlecht-und-beruf/",
+    "title": "Statistisches Bundesamt, Bundesagentur für Arbeit"
+  },
+  "knownData": [
+    {
+      "label": "Männer",
+      "value": 39.0
+    }
+  ],
+  "unknownData": {
+    "label": "Frauen",
+    "value": 61.0
+  },
+  "maxY": 80,
+  "initialGuess": 39.0,
+  "unit": "%",
+  "precision": 0,
+  "customMargin": {
+    "left": 45
+  }
+}

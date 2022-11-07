@@ -1,0 +1,91 @@
+{
+  "key": "altersarmut",
+  "heading": "Was schätzen Sie...?",
+  "subheading": "Wie hat sich Armutsgefährungsquote für Senior:innen und Deutschland allgemein nach 2018 entwickelt?",
+  "result": "**Dies ist die Auflösung.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://de.statista.com/statistik/daten/studie/785537/umfrage/armutsgefaehrdungsquote-von-senioren-in-deutschland/",
+    "title": "Statistische Ämter des Bundes und der Länder"
+  },
+  "knownData": [
+    {
+      "label": "'05",
+      "value": 11.0
+    },
+    {
+      "label": "'06",
+      "value": 10.4
+    },
+    {
+      "label": "'07",
+      "value": 11.3
+    },
+    {
+      "label": "'08",
+      "value": 12.0
+    },
+    {
+      "label": "'09",
+      "value": 11.9
+    },
+    {
+      "label": "'10",
+      "value": 12.3
+    },
+    {
+      "label": "'11",
+      "value": 13.2
+    },
+    {
+      "label": "'12",
+      "value": 13.6
+    },
+    {
+      "label": "'13",
+      "value": 14.3
+    },
+    {
+      "label": "'14",
+      "value": 14.4
+    },
+    {
+      "label": "'15",
+      "value": 14.6
+    },
+    {
+      "label": "'16",
+      "value": 14.8
+    }
+  ],
+  "unknownData": [
+    {
+      "label": "'17",
+      "value": 14.6
+    },
+    {
+      "label": "'18",
+      "value": 14.7
+    },
+    {
+      "label": "'19",
+      "value": 15.7
+    },
+    {
+      "label": "'20",
+      "value": 16.3
+    },
+    {
+      "label": "'21",
+      "value": 17.4
+    }
+  ],
+  "maxY": 25,
+  "unit": "%",
+  "precision": 1,
+  "ticks": 5,
+  "customMargin": {
+    "left": 45,
+    "right": 8
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "vollzeit",
+  "heading": "Was schätzen Sie...?",
+  "subheading": "Wie viele Frauen sind in Vollzeit beschäftigt?",
+  "result": "**Dies ist die Auflösung.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://de.statista.com/statistik/daten/studie/151413/umfrage/beschaeftigte-frauen-in-deutschland-1999-und-2009-und-2014/",
+    "title": "Bundesagentur für Arbeit"
+  },
+  "knownData": [
+    {
+      "label": "2000",
+      "value": 8.9
+    },
+    {
+      "label": "2010",
+      "value": 8.25
+    }
+  ],
+  "unknownData": {
+    "label": "2021",
+    "value": 7.96
+  },
+  "maxY": 10,
+  "initialGuess": 8.25,
+  "unit": " Mio.",
+  "precision": 2,
+  "customMargin": {
+    "left": 63
+  }
+}
