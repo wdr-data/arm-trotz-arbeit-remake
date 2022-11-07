@@ -57,7 +57,7 @@ Laut Wirtschaft- und Sozialinstitut gilt jed:r in Deutschland als arm, der:die w
 Clip Ulrike 03:46 - 04:11:06
 
 („Eben war ich ja in der Schule und irgendwie wollte eine Lehrerin wissen, wie der Film hieß, in dem ich schon mal mitgemacht habe. Und das heißt ja Arm trotz Arbeit. Und da habe ich ihr das gesagt, und die guckte mich ganz entsetzt an, habe ich gesagt, ja, ich bin offiziell bin ich arm, so laut dem Einkommen und so und das, das wissen die ja eigentlich alle gar nicht.“)
-<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<WdrPlayer videoId="" videoPoster="https://i.imgur.com/3q3kNGh.png" />
 <figcaption>Auch Ulrike, freiberufliche Sängerin, gilt offiziell als arm. Wissen tun das die wenigsten.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Besonders alleinerziehende Frauen erfahren eine Doppelbelastung durch Arbeit und
 Clip Janina 15:46 – 16:10
 
 („Am Montag bin ich nicht da. Wieso denn? Für die Arbeit? Ich muss nach Engelskirchen. Dann seid ihr bei Oma und Opa. Müsste klappen oder? Ja, ihr kriegt das ja hin, oder? Ja, denke ich auch. Like wir kriegen das hin. Was? Das Mama weg ist.“)
-<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<WdrPlayer videoId="" videoPoster="https://i.imgur.com/3q3kNGh.png" />
 <figcaption>Janina ist alleinerziehende Mutter von zwei Kindern. Ihr Arbeit schafft sie oft nur mit Unterstützung von den Großeltern.</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Auch Zahlen des Statistischen Bundesamtes zeigen, dass bei 68 Prozent der Renter
 Clip Susanne 06:24 – 06:36
 
 („Susanne: Wir brauchen ein Konzept wo die Leute nach wie vor Lust haben arbeiten zu gehen und ihr Geld zu verdienen und dann im Anschluß ne vernünftige Rente zu kriegen. Wenn dann diese Renten, die da entstehen, alle Netto wären, das wär ja schon ne Bombe.“)
-<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<WdrPlayer videoId="" videoPoster="https://i.imgur.com/3q3kNGh.png" />
 <figcaption>2018 war Reinigungskraft Susanne zur Gast bei „hart aber fair“.</figcaption>
 </figure>
 
