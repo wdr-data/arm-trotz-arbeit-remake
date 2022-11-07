@@ -18,6 +18,7 @@ import styles from "./ydiLine.module.css";
 
 const brandPrimary = "#00345f";
 const brandSecondary = "#A36A00";
+const brandHighlight = "#007381";
 
 const defaultMargin = {
   top: 10,
@@ -86,6 +87,7 @@ const YDILineInternal = ({ name }) => {
 
   const knownData = question.knownData;
   const unknownData = question.unknownData;
+  const referenceData = question.referenceData;
 
   const firstKnown = question.knownData[0];
   const lastKnown = question.knownData[question.knownData.length - 1];
@@ -370,6 +372,35 @@ const YDILineInternal = ({ name }) => {
     margin,
   ]);
 
+  const groupReference = useMemo(() => {
+    // const clipX = !confirmed
+    //   ? 1 - xScale(x(lastKnown)) / (width - margin.left - margin.right)
+    //   : 0;
+    // const clipPath = `inset(-10px ${clipX * 100}% -10px 0)`;
+    return (
+      <Group top={margin.top} left={margin.left}>
+        <AreaClosed
+          className={styles.known}
+          data={referenceData}
+          x={(d) => xScale(x(d))}
+          y={(d) => yScale(y(d))}
+          yScale={yScale}
+          fill="url(#gradientHighlight)"
+          //style={{ clipPath, WebkitClipPath: clipPath }}
+        />
+        <LinePath
+          className={styles.known}
+          data={referenceData}
+          x={(d) => xScale(x(d))}
+          y={(d) => yScale(y(d))}
+          stroke={brandHighlight}
+          strokeWidth={3}
+          //style={{ clipPath, WebkitClipPath: clipPath }}
+        />
+      </Group>
+    );
+  }, [xScale, yScale, referenceData, /*confirmed, lastKnown, */ margin]);
+
   const markers = useMemo(() => {
     const lastGuess = guessData[guessData.length - 1];
     const markerLabel = `${formatNumber(yGuess(lastGuess))}${question.unit}`;
@@ -463,6 +494,14 @@ const YDILineInternal = ({ name }) => {
           toOpacity={0}
           vertical={true}
         />
+        <LinearGradient
+          id="gradientHighlight"
+          from={brandHighlight}
+          fromOpacity={0.1}
+          to={brandHighlight}
+          toOpacity={0}
+          vertical={true}
+        />
         <Group top={margin.top} left={margin.left}>
           <AxisBottom
             scale={xScale}
@@ -501,6 +540,7 @@ const YDILineInternal = ({ name }) => {
             stroke="rgba(0,0,0,0.3)"
           />
         </Group>
+        {groupReference}
         {groupKnown}
         {groupUnknown}
         {markers}

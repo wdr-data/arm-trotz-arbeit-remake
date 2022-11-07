@@ -1,3 +1,31 @@
+.legend {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
+
+.legendEntry {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  margin: 0 0.5rem 0 0;
+}
+
+.legendDot {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  margin: 0 0.25rem 0 0;
+}
+.legendReferenceDot {
+  background-color: var(--brand-link);
+}
+.legendKnownDot {
+  background-color: var(--brand-primary);
+}
+
 .you-draw-it {
   margin: 30px 0 0 0;
   position: relative;

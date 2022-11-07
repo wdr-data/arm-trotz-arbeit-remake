@@ -80,7 +80,79 @@
       "value": 17.4
     }
   ],
+  "referenceData": [
+    {
+      "label": "'05",
+      "value": 14.7
+    },
+    {
+      "label": "'06",
+      "value": 14.0
+    },
+    {
+      "label": "'07",
+      "value": 14.3
+    },
+    {
+      "label": "'08",
+      "value": 14.4
+    },
+    {
+      "label": "'09",
+      "value": 14.6
+    },
+    {
+      "label": "'10",
+      "value": 14.5
+    },
+    {
+      "label": "'11",
+      "value": 15.0
+    },
+    {
+      "label": "'12",
+      "value": 15.0
+    },
+    {
+      "label": "'13",
+      "value": 15.5
+    },
+    {
+      "label": "'14",
+      "value": 15.4
+    },
+    {
+      "label": "'15",
+      "value": 15.7
+    },
+    {
+      "label": "'16",
+      "value": 15.7
+    },
+    {
+      "label": "'17",
+      "value": 15.8
+    },
+    {
+      "label": "'18",
+      "value": 15.5
+    },
+    {
+      "label": "'19",
+      "value": 15.9
+    },
+    {
+      "label": "'20",
+      "value": 16.2
+    },
+    {
+      "label": "'21",
+      "value": 16.6
+    }
+  ],
+  "referenceDataLabel": "Gesamtbevölkerung",
   "maxY": 25,
+  "knownDataLabel": "Senior:innen",
   "unit": "%",
   "precision": 1,
   "ticks": 5,

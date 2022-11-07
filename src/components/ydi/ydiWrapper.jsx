@@ -24,6 +24,27 @@ export const YDIWrapper = ({
       <div className={styles.question}>
         <h4>{question.heading}</h4>
         <figcaption>{question.subheading}</figcaption>
+
+        {question.referenceDataLabel && (
+          <div className={styles.legend} aria-hidden="true">
+            <div className={styles.legendEntry}>
+              <div
+                className={classNames(styles.legendDot, styles.legendKnownDot)}
+              />
+              <span>{question.knownDataLabel}</span>
+            </div>
+            <div className={styles.legendEntry}>
+              <div
+                className={classNames(
+                  styles.legendDot,
+                  styles.legendReferenceDot,
+                )}
+              />
+              <span>{question.referenceDataLabel}</span>
+            </div>
+          </div>
+        )}
+
         <div
           className={classNames(styles.youDrawIt)}
           aria-labelledby={`hint-${question.key}`}
