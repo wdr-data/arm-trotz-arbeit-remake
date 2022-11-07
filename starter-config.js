@@ -1,4 +1,4 @@
 module.exports = {
   pathPrefix: "/",
-  origin: "https://data.wdr.de",
+  origin: "arm-trotz-arbeit-remake.netlify.app",
 };
