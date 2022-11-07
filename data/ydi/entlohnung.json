@@ -1,28 +1,28 @@
 {
   "key": "entlohnung",
   "heading": "Was schätzen Sie...?",
-  "subheading": "Wie groß ist der Anteil geringfügig entlohnter Beschäftigung bei Frauen?",
-  "result": "**Auflösung hier**",
-  "accessibility": "Während 39 Prozent der Männer geringfügig entlohnt beschäftigt, sind es bei Frauen 61 Prozent.",
+  "subheading": "Wie viel Prozent der Frauen verdienen monatlich unter 1000 Euro?",
+  "result": "**Niedrige Löhne, Teilzeitbeschäftigungen und Mini-Jobs führen dazu, dass im Vergleich zu Männern mehr als doppelt so viele Frauen unter 1000 Euro im Monat verdienen.**",
+  "accessibility": "2021 verdienten 43,5 Prozent der Frauen in Deutschland monatlich unter 1000 Euro (netto). Bei Männern waren es nur 20,2 Prozent.",
   "source": {
-    "url": "https://de.statista.com/statistik/daten/studie/198933/umfrage/erwerbstaetigkeit-in-deutschland-nach-geschlecht-und-beruf/",
-    "title": "Statistisches Bundesamt, Bundesagentur für Arbeit"
+    "url": "",
+    "title": "Verbrauchs- und Medienanalyse - VuMA 2022"
   },
   "knownData": [
     {
       "label": "Männer",
-      "value": 39.0
+      "value": 20.2
     }
   ],
   "unknownData": {
     "label": "Frauen",
-    "value": 61.0
+    "value": 43.5
   },
-  "maxY": 80,
-  "initialGuess": 39.0,
+  "maxY": 100,
+  "initialGuess": 20.2,
   "unit": "%",
   "precision": 0,
   "customMargin": {
-    "left": 45
+    "left": 52
   }
 }

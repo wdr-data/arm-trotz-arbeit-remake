@@ -1,11 +1,11 @@
 {
   "key": "vollzeit",
   "heading": "Was schätzen Sie...?",
-  "subheading": "Wie viele Frauen sind in Vollzeit beschäftigt?",
-  "result": "**Dies ist die Auflösung.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "subheading": "Wie viele Frauen waren 2022 in Vollzeit beschäftigt?",
+  "result": "**Die Zahl von Frauen in Vollzeitbeschäftigung ist rückläufig. Im Vergleich zum Jahr 2000 arbeiteten 2021 knapp 1 Millionen Frauen weniger in Vollzeit.**",
+  "accessibility": "2000 arbeiteten 8,9 Millionen Frauen in Vollzeit. 2010 sank die Zahl auf 8,25 Millionen. 2021 gingen 7,96 Millionen Frauen einer Vollzeitbeschäftigung nach.",
   "source": {
-    "url": "https://de.statista.com/statistik/daten/studie/151413/umfrage/beschaeftigte-frauen-in-deutschland-1999-und-2009-und-2014/",
+    "url": "https://statistik.arbeitsagentur.de/Statistikdaten/Detail/202112/ama/heft-arbeitsmarkt/arbeitsmarkt-d-0-202112-pdf.pdf?__blob=publicationFile&v=2",
     "title": "Bundesagentur für Arbeit"
   },
   "knownData": [
