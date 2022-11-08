@@ -3,11 +3,11 @@ title: "Arm trotz Arbeit – Frauen in der Krise"
 description: Dies ist die Beschreibung
 author: Lena Eggert
 pub_date: "2022-11-09"
-heroImage: "richard-wagner-und-freunde.jpg"
-heroAlt: "Richard Wagner und seine Freunde"
-heroCredit: "Richard Wagner und seine Freunde"
-sharingImageFacebook: "richard-wagner-und-freunde_facebook.jpg"
-sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
+heroImage: "titelbild.jpg"
+heroAlt: "Susanne guckt in die Kamera"
+heroCredit: "&copy; WDR/Nina Poppe, honorarfrei"
+sharingImageFacebook: "titelbild.jpg"
+sharingImageTwitter: "titelbild.jpg"
 cg1: "WDR"
 cg2: "Data"
 cg3: "Newsroom"
@@ -29,8 +29,6 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 # Arm trotz Arbeit – Frauen in der Krise
 
 **Am 1. Oktober 2022 wurde der gesetzliche Mindestlohn in Deutschland auf 12 Euro pro Stunde angehoben. Ein Betrag, der trotz Erhöhung viele Menschen am Existenzminimum leben lässt. Frauen sind in Deutschland besonders stark von Armut betroffen. Nach Angaben des Deutschen Paritätischen Wohlfahrtsverbands galten 2021 17,5 Prozent der Frauen als armutsgefährdet. Bei Männern lag die Armutsgefährungsquote bei 15,7 Prozent.**
-
-<Quote author="Susanne Holtkotte">Finanziell hat sich gar nichts geändert</Quote>
 
 ## Eine von vielen
 
