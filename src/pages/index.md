@@ -5,7 +5,7 @@ author: Lena Eggert
 pub_date: "2022-11-09"
 heroImage: "titelbild.jpg"
 heroAlt: "Susanne guckt in die Kamera"
-heroCredit: "&copy; WDR/Nina Poppe, honorarfrei"
+heroCredit: "© WDR/Nina Poppe, honorarfrei"
 sharingImageFacebook: "titelbild.jpg"
 sharingImageTwitter: "titelbild.jpg"
 cg1: "WDR"
