@@ -4,7 +4,7 @@ import classNames from "classnames";
 
 import styles from "./link.module.css";
 
-export const Link = ({ title, href, ...rest }) => {
+export const Link = ({ title, href, cta, ...rest }) => {
   return (
     <a
       className={classNames(styles.link, styles.linkSingle)}
@@ -12,7 +12,7 @@ export const Link = ({ title, href, ...rest }) => {
       rel="noopener noreferrer"
       target="_blank"
     >
-      <span>{title}</span> <span>|</span> <strong>mehr</strong>
+      <span>{title}</span> <span>|</span> <strong>{cta || "mehr"}</strong>
     </a>
   );
 };
