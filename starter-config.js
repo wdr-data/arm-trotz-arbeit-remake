@@ -1,4 +1,4 @@
 module.exports = {
   pathPrefix: "/",
-  origin: "arm-trotz-arbeit-remake.netlify.app",
+  origin: "https://arm-trotz-arbeit-remake.netlify.app",
 };
