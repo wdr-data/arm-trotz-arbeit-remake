@@ -1,6 +1,6 @@
 ---
 title: "Arm trotz Arbeit – Frauen in der Krise"
-description: Dies ist die Beschreibung
+description: Frauen sind in Deutschland besonders stark von Armut betroffen. Schätzen Sie selbst, wie sich die Situation von Arbeitnehmerinnen in den letzten Jahren entwickelt hat.
 author: Lena Eggert
 pub_date: "2022-11-09"
 heroImage: "titelbild.jpg"
