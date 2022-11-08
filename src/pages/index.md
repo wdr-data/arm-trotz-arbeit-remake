@@ -10,8 +10,8 @@ sharingImageFacebook: "richard-wagner-und-freunde_facebook.jpg"
 sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
 cg1: "WDR"
 cg2: "Data"
-cg3: "WDR 3"
-cg4: "Opern-Spielpläne in NRW: tot und männlich"
+cg3: "Newsroom"
+cg4: "Arm trotz Arbeit – Frauen in der Krise"
 ---
 
 import DataWrapper from '../components/datawrapper/datawrapper.jsx'
