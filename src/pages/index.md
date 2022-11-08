@@ -54,10 +54,7 @@ Im Vergleich dazu arbeiteten die meisten der 3,1 Millionen geringfügig beschäf
 Laut Wirtschaft- und Sozialinstitut gilt jed:r in Deutschland als arm, der:die weniger als 60 Prozent des bundesdurchschnittlichen Einkommens verdient. Für einen Einpersonenhaushalt wie Susanne ihn führt lag die Armutsgrenze 2020 bei 1126 Euro.
 
 <figure>
-Clip Ulrike 03:46 - 04:11:06
-
-(„Eben war ich ja in der Schule und irgendwie wollte eine Lehrerin wissen, wie der Film hieß, in dem ich schon mal mitgemacht habe. Und das heißt ja Arm trotz Arbeit. Und da habe ich ihr das gesagt, und die guckte mich ganz entsetzt an, habe ich gesagt, ja, ich bin offiziell bin ich arm, so laut dem Einkommen und so und das, das wissen die ja eigentlich alle gar nicht.“)
-<WdrPlayer videoId="" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<WdrPlayer videoId="2822796" videoPoster="poster_ulrike.jpg" />
 <figcaption>Auch Ulrike, freiberufliche Sängerin, gilt offiziell als arm. Wissen tun das die wenigsten.</figcaption>
 </figure>
 
@@ -74,10 +71,7 @@ Susanne muss mit ihrem geringen Einkommen nur sich selbst über die Runden bring
 Besonders alleinerziehende Frauen erfahren eine Doppelbelastung durch Arbeit und Kinderbetreuung. Auch sie können teilweise nur Teilzeitbeschäftigungen nachgehen, wenn sie keine Unterstützung von außen bekommen. Laut Statistischem Bundesamt galten im Jahr 2021 circa 2,15 Millionen Mütter als alleinerziehend. Die Zahl der alleinerziehenden Väter ist mit 462.00 deutlich geringer.
 
 <figure>
-Clip Janina 15:46 – 16:10
-
-(„Am Montag bin ich nicht da. Wieso denn? Für die Arbeit? Ich muss nach Engelskirchen. Dann seid ihr bei Oma und Opa. Müsste klappen oder? Ja, ihr kriegt das ja hin, oder? Ja, denke ich auch. Like wir kriegen das hin. Was? Das Mama weg ist.“)
-<WdrPlayer videoId="" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<WdrPlayer videoId="2822803" videoPoster="poster_janina.jpg" />
 <figcaption>Janina ist alleinerziehende Mutter von zwei Kindern. Ihr Arbeit schafft sie oft nur mit Unterstützung von den Großeltern.</figcaption>
 </figure>
 
@@ -94,10 +88,7 @@ Auch Zahlen des Statistischen Bundesamtes zeigen, dass bei 68 Prozent der Renter
 <YDILine name="altersarmut"/>
 
 <figure>
-Clip Susanne 06:24 – 06:36
-
-(„Susanne: Wir brauchen ein Konzept wo die Leute nach wie vor Lust haben arbeiten zu gehen und ihr Geld zu verdienen und dann im Anschluß ne vernünftige Rente zu kriegen. Wenn dann diese Renten, die da entstehen, alle Netto wären, das wär ja schon ne Bombe.“)
-<WdrPlayer videoId="" videoPoster="https://i.imgur.com/3q3kNGh.png" />
+<WdrPlayer videoId="2822800" videoPoster="poster_susanne.jpg" />
 <figcaption>2018 war Reinigungskraft Susanne zur Gast bei „hart aber fair“.</figcaption>
 </figure>
 

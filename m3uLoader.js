@@ -3,7 +3,7 @@ const fs = require("fs").promises;
 
 const main = async () => {
   const index = await fs.readFile("src/pages/index.md", "utf8");
-  const matches = [...index.matchAll(/videoId="(\d+)"/g)];
+  const matches = [...index.matchAll(/videoId="(\d+)"/g)]; // "Import ID" ?
   const videoIds = matches.map((match) => match[1]);
   console.log(`Found videoIds in index.md: ${videoIds}`);
 
