@@ -36,7 +36,7 @@ Im Vergleich dazu arbeiteten die meisten der 3,1 Millionen geringfügig beschäf
 
 <YDIBar name="entlohnung"/>
 
-Laut Wirtschaft- und Sozialwissenschaftlichen Institut gilt jeder Mensch in Deutschland als arm, der weniger als 60 Prozent des bundesdurchschnittlichen Einkommens verdient. Für einen Einpersonenhaushalt wie Susanne Holtkotte ihn führt lag die Armutsgrenze 2020 bei 1.126 Euro.
+Laut Wirtschafts- und Sozialwissenschaftlichem Institut gilt jeder Mensch in Deutschland als arm, der weniger als 60 Prozent des bundesdurchschnittlichen Einkommens verdient. Für einen Einpersonenhaushalt wie Susanne Holtkotte ihn führt lag die Armutsgrenze 2020 bei 1.126 Euro.
 
 <figure>
 <WdrPlayer videoId="2822796" videoPoster="poster_ulrike.jpg" />
@@ -45,7 +45,7 @@ Laut Wirtschaft- und Sozialwissenschaftlichen Institut gilt jeder Mensch in Deut
 
 ## Frauen verdienen weniger
 
-Frauen sind nicht nur vermehrt eine geringfügig beschäftigt, sondern verdienen auch insgesamt weniger Geld als Männer. So erhielten Frauen 2021 laut Statistischem Bundesamt durchschnittlich 19,12 Euro pro Stunde. Das sind 4,08 Euro weniger als bei Männern.
+Frauen sind nicht nur vermehrt geringfügig beschäftigt, sondern verdienen auch insgesamt weniger Geld als Männer. So erhielten Frauen 2021 laut Statistischem Bundesamt durchschnittlich 19,12 Euro pro Stunde. Das sind 4,08 Euro weniger als bei Männern.
 
 Susanne Holtkotte muss mit ihrem geringen Einkommen nur sich selbst über die Runden bringen. Frauen mit Kindern sind häufig durch zusätzliche Care-Arbeit belastet und können teilweise nur in Teilzeit arbeiten. In Umfragen von Eurostat nannten 30,5 Prozent der befragten Frauen in Deutschland die Betreuung von Kindern und erwerbsunfähigen Erwachsenen als Hauptgrund für eine Teilzeitbeschäftigung. Bei Männern waren es lediglich 7,1 Prozent. 28,3 Prozent der Männer gaben an, aufgrund von Ausbildung und beruflicher Weiterbildung in Teilzeit zu arbeiten.
 
@@ -62,13 +62,13 @@ Besonders alleinerziehende Frauen erfahren eine Doppelbelastung durch Arbeit und
 
 Aufgrund von zusätzlicher Care-Arbeit sank während der Corona-Pandemie die durchschnittliche Erwerbsarbeitszeit von Frauen. Nach Angaben der Hans-Böckler-Stiftung betrug die wöchentliche Arbeitszeit von Eltern mit betreuungsbedürftigen Kindern bei Frauen 31 Stunden und bei Männern 41 Stunden. Im April 2020 sanken die Arbeitszeit auf 24 Stunden bei Frauen und 36 bei Männern.
 
-All diese Faktoren spielen in den so genannten „Gender Pay Gap“ hinein, der die Einkommensunterschiede zwischen den zwei Geschlechtern beschreibt. Entwicklungen zeigen, dass Frauen im Jahr 2021 18 Prozent weniger Lohn pro Stunde verdient haben als Männer, unverändert zum Vorjahr. Die Verdienstabstand zwischen den beiden Geschlechternhat sich über die letzten 10 Jahre hinweg jedoch verringert. 2012 lag der „Gender Pay Gap“ noch bei 23 Prozent.
+All diese Faktoren spielen in den so genannten „Gender Pay Gap“ hinein, der die Einkommensunterschiede zwischen den zwei Geschlechtern beschreibt. Entwicklungen zeigen, dass Frauen im Jahr 2021 18 Prozent weniger Lohn pro Stunde verdient haben als Männer, unverändert zum Vorjahr. Die Verdienstabstand zwischen den beiden Geschlechtern hat sich über die letzten 10 Jahre hinweg jedoch verringert. 2012 lag der „Gender Pay Gap“ noch bei 23 Prozent.
 
 ## Problem Altersarmut
 
 Die erheblichen Einkommensunterschiede zwischen Frauen und Männern hören mit dem Eintritt in die Rente nicht auf. Im Gegenteil: Der „Pay Gap“ vergrößert sich. Nach Angaben der Deutschen Rentenversicherung lag 2021 die durchschnittliche Rente von Frauen bei etwa 832 Euro im Monat. Männer hingegen erhielten durchschnittlich 1.304 Euro. Demnach lag der Abstand bei den Renten bei etwa 36 Prozent.
 
-Auch Zahlen des Statistischen Bundesamtes zeigen, dass bei 68 Prozent der Renter:innen das monatliche Nettoeinkommen unter 1:500 Euro liegt, bei Männern sich es lediglich 43,9 Prozent. All diese Angaben zeigen, dass Frauen auch im Alter stärker von Armut gefährdet sind als Männer.
+Auch Zahlen des Statistischen Bundesamtes zeigen, dass bei 68 Prozent der Renterinnen das monatliche Nettoeinkommen unter 1.500 Euro liegt, bei Männern sich es lediglich 43,9 Prozent. All diese Angaben zeigen, dass Frauen auch im Alter stärker von Armut gefährdet sind als Männer.
 
 <YDILine name="altersarmut"/>
 
