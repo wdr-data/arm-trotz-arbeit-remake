@@ -1,6 +1,6 @@
 ### Bildrechte:
 
-- Für Reinigungskraft Susanne Holtkotte reicht das Einkommen nicht zum Leben. (© WDR/Nina Poppe)
+- **Aufmacher-Bild:** Für Reinigungskraft Susanne Holtkotte reicht das Einkommen nicht zum Leben. (© WDR/Nina Poppe)
 
 
 ### Credits
