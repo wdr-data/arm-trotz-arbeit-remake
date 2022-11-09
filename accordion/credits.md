@@ -1,13 +1,10 @@
 ### Bildrechte:
 
-- - Aufmacher-Bild: Richard Wagner und seine Freunde, Foto von Joseph Albert (picture alliance / akg-images)
+- Für Reinigungskraft Susanne Holtkotte reicht das Einkommen nicht zum Leben. (© WDR/Nina Poppe)
 
-- - Bild 2: Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann
 
 ### Credits
 
+- **Grafiken- und Datenrecherche:** Lena Eggert
 - **Redaktion:** Urs Zietan
-- **Design:** Chrissi Holderbaum, Dilek Wache
-- **Programmierung:** Jannes Höke, Christine Gotthardt, Marcus Weiner, Jakob Holderbaum, Patricia Ennenbach
-- **Accessability, UX:** Dilek Wache, Stephanie Juranek
-- **Datenrecherche:** Lena Eggert
+- **Grafiken und Programmierung:** Jannes Höke

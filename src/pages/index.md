@@ -5,7 +5,7 @@ author: Lena Eggert
 pub_date: "2022-11-09"
 heroImage: "titelbild.jpg"
 heroAlt: "Susanne guckt in die Kamera"
-heroCredit: "© WDR/Nina Poppe, honorarfrei"
+heroCredit: "© WDR/Nina Poppe"
 sharingImageFacebook: "titelbild.jpg"
 sharingImageTwitter: "titelbild.jpg"
 cg1: "WDR"
@@ -76,8 +76,9 @@ Auch Zahlen des Statistischen Bundesamtes zeigen, dass bei 68 Prozent der Renter
 <WdrPlayer videoId="2822800" videoPoster="poster_susanne.jpg" />
 <figcaption>2018 war Reinigungskraft Susanne zu Gast bei „hart aber fair“.</figcaption>
 </figure>
+
 Bereits 2018 begleitete der WDR in der TV-Reihe „Menschen hautnah“ vier berufstätige Frauen zwischen Arbeit, Alltag und Existenzsorgen. Ihre Situation damals: prekär. Nach der Veröffentlichung der Dokumentation stand besonders Susanne Holtkotte im medialen Fokus: Sie diskutierte 2018 in Frank Plasbergs Sendung „hart aber fair“, tauschte 2019 mit dem damaligen Arbeits- und Sozialminister Hubertus Heil für einen Tag die Arbeitsplätze und kämpfte für Lohnerhöhung und eine Grundrente. Doch trotz positiver Veränderungen, lebt Holtkotte aufgrund der Inflation nach wie vor am Existenzminimum – trotz Vollzeitjob. Holtkotte ist eine von vielen berufstätigen Frauen in Deutschland und nur ein Beispiel eines großen Systemproblems. Dieses Jahr stand ein zweiter Besuch bei drei der vier Frauen an.
 
-<Link title="Mehr dazu hier" href="https://example.com/" cta="video" />
+<Link title="Mehr dazu hier" href="https://www1.wdr.de/fernsehen/menschen-hautnah/sendungen/arm-trotz-arbeit-frauen-in-der-krise-100.html" cta="video" />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />

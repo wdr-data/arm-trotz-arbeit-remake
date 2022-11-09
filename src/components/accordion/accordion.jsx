@@ -15,7 +15,7 @@ const Accordion = ({ authors, sources, credits, hints }) => {
   return (
     <AccordionWrapper className={styles.wrapper} allowZeroExpanded>
       {[
-        ["AutorInnen", authors],
+        ["Autorin", authors],
         ["Quellen", sources],
         ["Bildrechte & Credits", credits],
         ["Analytics & Fehler melden", hints],
