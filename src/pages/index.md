@@ -26,11 +26,11 @@ import { Link } from '../components/link/link.jsx'
 
 **Frauen sind in Deutschland besonders stark von Armut betroffen. Schätzen Sie selbst, wie sich die Situation von Arbeitnehmerinnen in den letzten Jahren entwickelt hat.**
 
-Nach Angaben des Deutschen Paritätischen Wohlfahrtsverbands galten 17,5 Prozent der Frauen im Jahr 2021 als armutsgefährdet. Bei Männern lag die Armutsgefährdungsquote bei 15,7 Prozent. Am 1. Oktober 2022 wurde der gesetzliche Mindestlohn in Deutschland auf 12 Euro pro Stunde angehoben. Ein Betrag, der trotz Erhöhung viele Menschen am Existenzminimum leben lässt. So auch Susanne Holtkotte, eine alleinstehende Reinigungskraft aus einem Bochumer Krankenhaus. Ihr stehen monatlich etwa 1.150 Euro zur Verfügung.
+Nach Angaben des Deutschen Paritätischen Wohlfahrtsverbands galten 17,5 Prozent der Frauen im Jahr 2021 als armutsgefährdet. Bei Männern lag die Armutsgefährdungsquote bei 15,7 Prozent. Am 1. Oktober 2022 wurde der gesetzliche Mindestlohn in Deutschland auf brutto 12 Euro pro Stunde angehoben. Ein Betrag, der trotz Erhöhung viele Menschen am Existenzminimum leben lässt. So auch Susanne Holtkotte, eine alleinstehende Reinigungskraft aus einem Bochumer Krankenhaus. Ihr stehen monatlich etwa 1.150 Euro zur Verfügung.
 
 ## Geringfügige Beschäftigung
 
-Ähnlich wie Holtkotte übten im Jahr 2021 rund 788.300 Frauen Reinigungsberufe aus. Sie alle haben den größten Anteil innerhalb der geringfügig beschäftigten Frauen. Eine geringfügig entlohnte Beschäftigung liegt dann vor, wenn der Lohn im Monat 520 Euro nicht übersteigt. Andere Frauen in dem Bereich arbeiten in Bürojobs (682.300), in Verkaufsberufen (562.100) oder Tourismus/Gastronomieberufen (422.700). Nach Angaben der Bundesagentur für Arbeit gab es zum 30. Juni 2021 rund 4,3 Millionen geringfügig beschäftigte Frauen.
+Ähnlich wie Holtkotte übten im Jahr 2021 rund 788.300 Frauen Reinigungsberufe aus. Sie alle haben den größten Anteil innerhalb der geringfügig beschäftigten Frauen. Eine geringfügig entlohnte Beschäftigung liegt dann vor, wenn der Lohn im Monat 520 Euro brutto nicht übersteigt. Andere Frauen in dem Bereich arbeiten in Bürojobs (682.300), in Verkaufsberufen (562.100) oder Tourismus/Gastronomieberufen (422.700). Nach Angaben der Bundesagentur für Arbeit gab es zum 30. Juni 2021 rund 4,3 Millionen geringfügig beschäftigte Frauen.
 
 Im Vergleich dazu arbeiteten die meisten der 3,1 Millionen geringfügig beschäftigten Männer im Bereich Verkehr/Logistik (388.800; Fahrzeugführung ausgenommen). Die zweitgrößte Gruppe machen Führer von Fahrzeug- und Transportgeräten (313.000) aus, gefolgt von Reinigungsberufen (275.200).
 
