@@ -26,7 +26,7 @@ import { Link } from '../components/link/link.jsx'
 
 **Frauen sind in Deutschland besonders stark von Armut betroffen. Schätzen Sie selbst, wie sich die Situation von Arbeitnehmerinnen in den letzten Jahren entwickelt hat.**
 
-Nach Angaben des Deutschen Paritätischen Wohlfahrtsverbands galten 17,5 Prozent der Frauen im Jahr 2021 als armutsgefährdet. Bei Männern lag die Armutsgefährdungsquote bei 15,7 Prozent. Am 1. Oktober 2022 wurde der gesetzliche Mindestlohn in Deutschland auf brutto 12 Euro pro Stunde angehoben. Ein Betrag, der trotz Erhöhung viele Menschen am Existenzminimum leben lässt. So auch Susanne Holtkotte, eine alleinstehende Reinigungskraft aus einem Bochumer Krankenhaus. Ihr stehen monatlich etwa 1.150 Euro zur Verfügung.
+Nach Angaben des Deutschen Paritätischen Wohlfahrtsverbands galten 17,5 Prozent der Frauen im Jahr 2021 als armutsgefährdet. Bei Männern lag die Armutsgefährdungsquote bei 15,7 Prozent. Am 1. Oktober 2022 wurde der gesetzliche Mindestlohn in Deutschland auf brutto 12 Euro pro Stunde angehoben. Ein Betrag, der trotz Erhöhung viele Menschen am Existenzminimum leben lässt. So auch Susanne Holtkotte, eine alleinstehende Reinigungskraft aus einem Bochumer Krankenhaus. Ihr standen 2018 netto 1.150 Euro zur Verfügung und auch heute kommt sie mit dem Geld kaum hin.
 
 ## Geringfügige Beschäftigung
 
@@ -78,6 +78,8 @@ Auch Zahlen des Statistischen Bundesamtes zeigen, dass bei 68 Prozent der Renter
 </figure>
 
 Bereits 2018 begleitete der WDR in der TV-Reihe „Menschen hautnah“ vier berufstätige Frauen zwischen Arbeit, Alltag und Existenzsorgen. Ihre Situation damals: prekär. Nach der Veröffentlichung der Dokumentation stand besonders Susanne Holtkotte im medialen Fokus: Sie diskutierte 2018 in Frank Plasbergs Sendung „hart aber fair“, tauschte 2019 mit dem damaligen Arbeits- und Sozialminister Hubertus Heil für einen Tag die Arbeitsplätze und kämpfte für Lohnerhöhung und eine Grundrente. Doch trotz positiver Veränderungen, lebt Holtkotte aufgrund der Inflation nach wie vor am Existenzminimum – trotz Vollzeitjob. Holtkotte ist eine von vielen berufstätigen Frauen in Deutschland und nur ein Beispiel eines großen Systemproblems. Dieses Jahr stand ein zweiter Besuch bei drei der vier Frauen an.
+
+*Anmerkung: Eine Formulierung im ersten Absatz konnte den Eindruck erwecken, dass Frau Holtkotte zur Zeit 1.150 Euro verdient. Das haben wir angepasst.*
 
 <Link title="Dokumentation in der Mediathek anschauen" href="https://www.ardmediathek.de/video/menschen-hautnah/arm-trotz-arbeit-frauen-in-der-krise/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTZhNDI1M2E2LTJkODUtNDc3NC1hMWFiLTUzMDlhOTlhOTg0Zg" cta="video" />
 
